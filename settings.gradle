@@ -1,1 +1,5 @@
-include ':app', ':RecyclerViewAdvancedDemo', ':BonusAnimationDemo', ':AdvancedTextDemo', 'CollapsingAppBarDemo', 'DialogFragmentDemo', 'FancyTransitionDemo', 'FragmentAddOrderingDemo', 'GuestureDetectorDemo', 'ImageInlineTextDemo', 'MultipleFragmentLayerDemo', 'RecyclerViewInsideScrollViewDemo', 'WeChatLuckyMoneyEffect', 'AdvancedFrescoDemo', ':recyclerviewanimator4'
+include ':app', ':RecyclerViewAdvancedDemo', ':BonusAnimationDemo', ':AdvancedTextDemo', ':RecyclerView动画6.0', 'CollapsingAppBarDemo', 'DialogFragmentDemo', 'FancyTransitionDemo', 'FragmentAddOrderingDemo', 'GuestureDetectorDemo', 'ImageInlineTextDemo', 'MultipleFragmentLayerDemo', 'RecyclerViewInsideScrollViewDemo', 'WeChatLuckyMoneyEffect', 'AdvancedFrescoDemo', ':recyclerviewanimator4'
+include ':androidPullToRefresh'
+include ':itemAnimator'
+include ':androidsupportv7cardview'
+include ':itemAnimatorDemo'

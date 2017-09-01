@@ -15,8 +15,13 @@
       <module fileurl="file://$PROJECT_DIR$/MultipleFragmentLayerDemo/MultipleFragmentLayerDemo.iml" filepath="$PROJECT_DIR$/MultipleFragmentLayerDemo/MultipleFragmentLayerDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerViewAdvancedDemo/RecyclerViewAdvancedDemo.iml" filepath="$PROJECT_DIR$/RecyclerViewAdvancedDemo/RecyclerViewAdvancedDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerViewInsideScrollViewDemo/RecyclerViewInsideScrollViewDemo.iml" filepath="$PROJECT_DIR$/RecyclerViewInsideScrollViewDemo/RecyclerViewInsideScrollViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerView动画6.0/RecyclerView动画6.0.iml" filepath="$PROJECT_DIR$/RecyclerView动画6.0/RecyclerView动画6.0.iml" />
       <module fileurl="file://$PROJECT_DIR$/WeChatLuckyMoneyEffect/WeChatLuckyMoneyEffect.iml" filepath="$PROJECT_DIR$/WeChatLuckyMoneyEffect/WeChatLuckyMoneyEffect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidPullToRefresh/androidPullToRefresh.iml" filepath="$PROJECT_DIR$/androidPullToRefresh/androidPullToRefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/androidsupportv7cardview/androidsupportv7cardview.iml" filepath="$PROJECT_DIR$/androidsupportv7cardview/androidsupportv7cardview.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itemAnimator/itemAnimator.iml" filepath="$PROJECT_DIR$/itemAnimator/itemAnimator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itemAnimatorDemo/itemAnimatorDemo.iml" filepath="$PROJECT_DIR$/itemAnimatorDemo/itemAnimatorDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/recyclerviewanimator4/recyclerviewanimator4.iml" filepath="$PROJECT_DIR$/recyclerviewanimator4/recyclerviewanimator4.iml" />
     </modules>
   </component>

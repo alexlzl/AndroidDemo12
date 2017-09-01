@@ -20,8 +20,13 @@
             <option value="$PROJECT_DIR$/MultipleFragmentLayerDemo" />
             <option value="$PROJECT_DIR$/RecyclerViewAdvancedDemo" />
             <option value="$PROJECT_DIR$/RecyclerViewInsideScrollViewDemo" />
+            <option value="$PROJECT_DIR$/RecyclerView动画6.0" />
             <option value="$PROJECT_DIR$/WeChatLuckyMoneyEffect" />
+            <option value="$PROJECT_DIR$/androidPullToRefresh" />
+            <option value="$PROJECT_DIR$/androidsupportv7cardview" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/itemAnimator" />
+            <option value="$PROJECT_DIR$/itemAnimatorDemo" />
             <option value="$PROJECT_DIR$/recyclerviewanimator4" />
           </set>
         </option>

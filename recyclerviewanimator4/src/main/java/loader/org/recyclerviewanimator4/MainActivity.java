@@ -15,6 +15,8 @@ import java.util.ArrayList;
 
 
 public class MainActivity extends AppCompatActivity {
+    private  int i=0x11;//十六进制
+    private int b=011;//八进制
 
     private ArrayList<String> mData = new ArrayList<String>() {
         {
