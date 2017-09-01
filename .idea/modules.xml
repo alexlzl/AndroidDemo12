@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdvancedFrescoDemo/AdvancedFrescoDemo.iml" filepath="$PROJECT_DIR$/AdvancedFrescoDemo/AdvancedFrescoDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdvancedTextDemo/AdvancedTextDemo.iml" filepath="$PROJECT_DIR$/AdvancedTextDemo/AdvancedTextDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BonusAnimationDemo/BonusAnimationDemo.iml" filepath="$PROJECT_DIR$/BonusAnimationDemo/BonusAnimationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollapsingAppBarDemo/CollapsingAppBarDemo.iml" filepath="$PROJECT_DIR$/CollapsingAppBarDemo/CollapsingAppBarDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo3.iml" filepath="$PROJECT_DIR$/Demo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DialogFragmentDemo/DialogFragmentDemo.iml" filepath="$PROJECT_DIR$/DialogFragmentDemo/DialogFragmentDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FancyTransitionDemo/FancyTransitionDemo.iml" filepath="$PROJECT_DIR$/FancyTransitionDemo/FancyTransitionDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FragmentAddOrderingDemo/FragmentAddOrderingDemo.iml" filepath="$PROJECT_DIR$/FragmentAddOrderingDemo/FragmentAddOrderingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuestureDetectorDemo/GuestureDetectorDemo.iml" filepath="$PROJECT_DIR$/GuestureDetectorDemo/GuestureDetectorDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImageInlineTextDemo/ImageInlineTextDemo.iml" filepath="$PROJECT_DIR$/ImageInlineTextDemo/ImageInlineTextDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultipleFragmentLayerDemo/MultipleFragmentLayerDemo.iml" filepath="$PROJECT_DIR$/MultipleFragmentLayerDemo/MultipleFragmentLayerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewAdvancedDemo/RecyclerViewAdvancedDemo.iml" filepath="$PROJECT_DIR$/RecyclerViewAdvancedDemo/RecyclerViewAdvancedDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewInsideScrollViewDemo/RecyclerViewInsideScrollViewDemo.iml" filepath="$PROJECT_DIR$/RecyclerViewInsideScrollViewDemo/RecyclerViewInsideScrollViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeChatLuckyMoneyEffect/WeChatLuckyMoneyEffect.iml" filepath="$PROJECT_DIR$/WeChatLuckyMoneyEffect/WeChatLuckyMoneyEffect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recyclerviewanimator4/recyclerviewanimator4.iml" filepath="$PROJECT_DIR$/recyclerviewanimator4/recyclerviewanimator4.iml" />
+    </modules>
+  </component>
+</project>

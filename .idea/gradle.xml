@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AdvancedFrescoDemo" />
+            <option value="$PROJECT_DIR$/AdvancedTextDemo" />
+            <option value="$PROJECT_DIR$/BonusAnimationDemo" />
+            <option value="$PROJECT_DIR$/CollapsingAppBarDemo" />
+            <option value="$PROJECT_DIR$/DialogFragmentDemo" />
+            <option value="$PROJECT_DIR$/FancyTransitionDemo" />
+            <option value="$PROJECT_DIR$/FragmentAddOrderingDemo" />
+            <option value="$PROJECT_DIR$/GuestureDetectorDemo" />
+            <option value="$PROJECT_DIR$/ImageInlineTextDemo" />
+            <option value="$PROJECT_DIR$/MultipleFragmentLayerDemo" />
+            <option value="$PROJECT_DIR$/RecyclerViewAdvancedDemo" />
+            <option value="$PROJECT_DIR$/RecyclerViewInsideScrollViewDemo" />
+            <option value="$PROJECT_DIR$/WeChatLuckyMoneyEffect" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/recyclerviewanimator4" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

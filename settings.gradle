@@ -1,0 +1,1 @@
+include ':app', ':RecyclerViewAdvancedDemo', ':BonusAnimationDemo', ':AdvancedTextDemo', 'CollapsingAppBarDemo', 'DialogFragmentDemo', 'FancyTransitionDemo', 'FragmentAddOrderingDemo', 'GuestureDetectorDemo', 'ImageInlineTextDemo', 'MultipleFragmentLayerDemo', 'RecyclerViewInsideScrollViewDemo', 'WeChatLuckyMoneyEffect', 'AdvancedFrescoDemo', ':recyclerviewanimator4'
