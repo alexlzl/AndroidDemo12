@@ -23,6 +23,18 @@
       <module fileurl="file://$PROJECT_DIR$/itemAnimator/itemAnimator.iml" filepath="$PROJECT_DIR$/itemAnimator/itemAnimator.iml" />
       <module fileurl="file://$PROJECT_DIR$/itemAnimatorDemo/itemAnimatorDemo.iml" filepath="$PROJECT_DIR$/itemAnimatorDemo/itemAnimatorDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/recyclerviewanimator4/recyclerviewanimator4.iml" filepath="$PROJECT_DIR$/recyclerviewanimator4/recyclerviewanimator4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/圆形菜单/圆形菜单.iml" filepath="$PROJECT_DIR$/圆形菜单/圆形菜单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/圆形菜单1/圆形菜单1.iml" filepath="$PROJECT_DIR$/圆形菜单1/圆形菜单1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/圆形菜单1library/圆形菜单1library.iml" filepath="$PROJECT_DIR$/圆形菜单1library/圆形菜单1library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/圆形菜单2/圆形菜单2.iml" filepath="$PROJECT_DIR$/圆形菜单2/圆形菜单2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/圆形菜单3/圆形菜单3.iml" filepath="$PROJECT_DIR$/圆形菜单3/圆形菜单3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/圆形菜单3library/圆形菜单3library.iml" filepath="$PROJECT_DIR$/圆形菜单3library/圆形菜单3library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/圆形菜单4/圆形菜单4.iml" filepath="$PROJECT_DIR$/圆形菜单4/圆形菜单4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/圆形菜单library/圆形菜单library.iml" filepath="$PROJECT_DIR$/圆形菜单library/圆形菜单library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/自定义Toast/自定义Toast.iml" filepath="$PROJECT_DIR$/自定义Toast/自定义Toast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/自定义Toast1/自定义Toast1.iml" filepath="$PROJECT_DIR$/自定义Toast1/自定义Toast1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/自定义Toast2/自定义Toast2.iml" filepath="$PROJECT_DIR$/自定义Toast2/自定义Toast2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/自定义Toast2library/自定义Toast2library.iml" filepath="$PROJECT_DIR$/自定义Toast2library/自定义Toast2library.iml" />
     </modules>
   </component>
 </project>

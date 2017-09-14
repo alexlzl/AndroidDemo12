@@ -1,0 +1,13 @@
+#Thu Sep 14 10:56:16 CST 2017
+renamed.3=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes4.dex
+renamed.0=classes2.dex
+base.3=F\:\\Demo\\Demo3\\圆形菜单4\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7b92cb482ce2e7bd6d001643302d58e5790e44d8
+base.2=F\:\\Demo\\Demo3\\圆形菜单4\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_1f11da9dc9c39adbd43b5d0a76d3e2a5598d80f5
+base.1=F\:\\Demo\\Demo3\\圆形菜单4\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_b7e07175fe40dc9588b493a8a54c74e83ed20095
+base.0=F\:\\Demo\\Demo3\\圆形菜单4\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ce315887ef1f8b2f4bc77e5cdb79ecd6272fcf2d
+file.3=F\:\\Demo\\Demo3\\圆形菜单4\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7b92cb482ce2e7bd6d001643302d58e5790e44d8\\classes.dex
+file.2=F\:\\Demo\\Demo3\\圆形菜单4\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.1.1_1f11da9dc9c39adbd43b5d0a76d3e2a5598d80f5\\classes.dex
+file.1=F\:\\Demo\\Demo3\\圆形菜单4\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.1.1_b7e07175fe40dc9588b493a8a54c74e83ed20095\\classes.dex
+file.0=F\:\\Demo\\Demo3\\圆形菜单4\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_ce315887ef1f8b2f4bc77e5cdb79ecd6272fcf2d\\classes.dex

@@ -28,6 +28,18 @@
             <option value="$PROJECT_DIR$/itemAnimator" />
             <option value="$PROJECT_DIR$/itemAnimatorDemo" />
             <option value="$PROJECT_DIR$/recyclerviewanimator4" />
+            <option value="$PROJECT_DIR$/圆形菜单" />
+            <option value="$PROJECT_DIR$/圆形菜单1" />
+            <option value="$PROJECT_DIR$/圆形菜单1library" />
+            <option value="$PROJECT_DIR$/圆形菜单2" />
+            <option value="$PROJECT_DIR$/圆形菜单3" />
+            <option value="$PROJECT_DIR$/圆形菜单3library" />
+            <option value="$PROJECT_DIR$/圆形菜单4" />
+            <option value="$PROJECT_DIR$/圆形菜单library" />
+            <option value="$PROJECT_DIR$/自定义Toast" />
+            <option value="$PROJECT_DIR$/自定义Toast1" />
+            <option value="$PROJECT_DIR$/自定义Toast2" />
+            <option value="$PROJECT_DIR$/自定义Toast2library" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
